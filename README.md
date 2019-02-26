@@ -1,8 +1,12 @@
-# digital-electronic-design
-Compilation of all my code from my digital electronic design unit
+# Digital Electronics Design
+by mikanwolfe, mikanwolfe@nekox.net
 
-### This repository is depreciated
-All of the code here was used and is no longer in use. 
-There will be no updating or optimising or any of the sort.
+---
+### Semester 1 2018
 
-It's just a repository.
+This repository acts as an archive of sorts for the VHDL Programs (largely) written by me during this unit. 
+
+Note that there is limited documentation provided inside and about the code. Future repositories will not have this issue.
+
+If you have any questions or concerns, email the author at mikanwolfe@nekox.net
+The author is lonely and appreciates the support.
