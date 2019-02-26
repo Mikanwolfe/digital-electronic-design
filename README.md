@@ -8,5 +8,6 @@ This repository acts as an archive of sorts for the VHDL Programs (largely) writ
 
 Note that there is limited documentation provided inside and about the code. Future repositories will not have this issue.
 
-If you have any questions or concerns, email the author at mikanwolfe@nekox.net
+If you have any questions or concerns, email the author at [mikanwolfe@nekox.net](mikanwolfe@nekox.net).
+
 The author is lonely and appreciates the support.
